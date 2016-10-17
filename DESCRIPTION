@@ -1,7 +1,7 @@
 Package: TCGAcrcmiRNA
 Type: Package
 Title: TCGA CRC 450 miRNA dataset
-Version: 0.107.0
+Version: 0.108.0
 Date: 2014-10-08
 Author: Claudio Isella
 Maintainer: Claudio Isella <claudio.isella@ircc.it>
